@@ -17,27 +17,24 @@
 * :speech_balloon: Ask me about **game development** and **Unity** (**email**). -->
 
 
-### ⚙️ Software Stack
+## ⚙️ Software Stack
 <div style="display:flex; gap: 0 50px; flex-wrap: wrap">
 <div>
-### &#127918; Games
-[![My Skills](https://skillicons.dev/icons?i=cs,cpp&perline=3)](https://skillicons.dev) <space> 
-[![My Skills](https://skillicons.dev/icons?i=unity,blender,visualstudio,git,ps,ae,pr&perline=3)](https://skillicons.dev)
-</div>
-<div>
-####  Tools
-[![My Skills](https://skillicons.dev/icons?i=unity,blender,visualstudio,vscode,git,ps)](https://skillicons.dev)
-</div>
-<!-- <div>
-#### 📁 Databases
-[![My Skills](https://skillicons.dev/icons?i=mongodb,postgresql,mysql)](https://skillicons.dev)
-</div> -->
+
+### &#127918; Game Development
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp)](https://skillicons.dev) <space> [![My Skills](https://skillicons.dev/icons?i=cs,cpp)](https://skillicons.dev)
 </div>
 
-| Left-aligned | Center-aligned | Right-aligned |
-| :---         |     :---:      |          ---: |
-| [![My Skills](https://skillicons.dev/icons?i=cs,cpp)](https://skillicons.dev)| git status     | git status    |
-| [![My Skills](https://skillicons.dev/icons?i=unity,blender,visualstudio,git,ps,)    | git diff       | git diff      |
+<div>
+### 🔧 Tools
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,jenkins,git,bash,pwsh,grafana)](https://skillicons.dev)
+</div>
+<div>
+
+### 📁 Databases
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgresql,mysql)](https://skillicons.dev)
+</div>
+</div>
 
 <!-- ### 🏢 Working on -->
 <!-- <a href="https://github.com/Smbrer1/melon-back-end"> -->
