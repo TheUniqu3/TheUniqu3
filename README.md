@@ -20,7 +20,6 @@
 ## ⚙️ Software Stack
 <div style="display:flex; gap: 0 50px; flex-wrap: wrap">
 <div>
-
 ### &#127918; Game Development
 [![My Skills](https://skillicons.dev/icons?i=cs,cpp)](https://skillicons.dev) <br>
 [![My Skills](https://skillicons.dev/icons?i=unity,blender,visualstudio)](https://skillicons.dev) <br>
@@ -31,14 +30,6 @@
 ### &#128421; Web Development
 [![My Skills](https://skillicons.dev/icons?i=linux,docker,jenkins,git,bash,pwsh,grafana)](https://skillicons.dev)
 </div>
-<div>
-
-### 📁 Databases
-[![My Skills](https://skillicons.dev/icons?i=mongodb,postgresql,mysql)](https://skillicons.dev)
-</div>
-</div>
-| [![My Skills](https://skillicons.dev/icons?i=cs,cpp)](https://skillicons.dev)| git status     | git status    |
-| [![My Skills](https://skillicons.dev/icons?i=unity,blender,visualstudio,git,ps,)
 <!-- ### 🏢 Working on -->
 <!-- <a href="https://github.com/Smbrer1/melon-back-end"> -->
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smbrer1&repo=melon-back-end&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="melon-back-end" /> -->
