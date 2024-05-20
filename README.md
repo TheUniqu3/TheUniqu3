@@ -37,12 +37,7 @@
 
 | Left-aligned | Center-aligned | Right-aligned |
 | :---         |     :---:      |          ---: |
-| ### ⚙️ Software Stack
-<div style="display:flex; gap: 0 50px; flex-wrap: wrap">
-<div>
-#### ⚒ Languages
-[![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
-</div>| git status     | git status    |
+| ### ⚙️ Software Stack <div style="display:flex; gap: 0 50px; flex-wrap: wrap"> <div> #### ⚒ Languages [![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev) </div>| git status     | git status    |
 | git diff     | git diff       | git diff      |
 
 <!-- ### 🏢 Working on -->
