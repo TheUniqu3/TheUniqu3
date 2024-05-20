@@ -1,53 +1,39 @@
+<h2>
+<div align="center">
+
 ![Header](images/WannaBeBanner.png)
-## Hi there 👋
 
-```go
-package main
+## Hi there :wave I'm Greg a indie game developer/designer
 
-import "fmt"
+<!-- HERE SHOULD BE A LINK TO ITCHIO,YT TIWTTER AND SOMETHING ELSE
 
-type SoftwareDeveloper struct {
-	Name string
-	Role string
-	Languages []string
-	Company string
-}
+<a href="https://twitter.com/fronkongames" target="_blank">![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)</a> <a href="https://www.linkedin.com/in/martinbr" target="_blank">![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)</a> ![](https://komarev.com/ghpvc/?username=fronkongames&label=Profile%20views&color=0e75b6&style=for-the-badge)
+##################
+-->
+</div>
+<!--
+* :telescope: I am currently working on a [Name of prject] (https://LINKTOproject)
+* :memo: I write articles on [my web](https://fronkongames.github.io/).
+* :speech_balloon: Ask me about **game development** and **Unity** (**email**).
 
-func (s *SoftwareDeveloper) HelloWorld(){
-	fmt.Printf(`
-		Thanks for dropping by, My name is %s and
-		I'm currently employed as %s at %s.
-		`, s.Name, s.Role, s.Company)
-}
-
-func main() {
-	s := SoftwareDeveloper{
-		Name: "Artem Sokolov",
-		Role: "Software Developer",
-		Languages: []string{"ru_RU", "en_US"},
-		Company: "MTT",
-	}
-	s.HelloWorld()
-}
-```
 
 ### ⚙️ Software Stack
 <div style="display:flex; gap: 0 50px; flex-wrap: wrap">
 <div>
 
 #### ⚒ Languages
-[![My Skills](https://skillicons.dev/icons?i=go,py,lua)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
 </div>
 <div>
 
 #### 🔧 Tools
-[![My Skills](https://skillicons.dev/icons?i=linux,docker,jenkins,git,bash,pwsh,grafana)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=blender,unity,visualstudio,git,ps)](https://skillicons.dev)
 </div>
-<div>
+<!-- <div>
 
 #### 📁 Databases
 [![My Skills](https://skillicons.dev/icons?i=mongodb,postgresql,mysql)](https://skillicons.dev)
-</div>
+</div> -->
 </div>
 
 <!-- ### 🏢 Working on -->
