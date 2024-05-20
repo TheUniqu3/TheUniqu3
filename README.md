@@ -14,7 +14,7 @@
 <!--
 * :telescope: I am currently working on a [Name of prject] (https://LINKTOproject)
 * :memo: I write articles on [my web](https://fronkongames.github.io/).
-* :speech_balloon: Ask me about **game development** and **Unity** (**email**).
+* :speech_balloon: Ask me about **game development** and **Unity** (**email**). -->
 
 
 ### ⚙️ Software Stack
