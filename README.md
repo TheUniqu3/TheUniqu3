@@ -28,7 +28,7 @@
 </div>
 
 <div>
-### 🔧 Tools
+### &#128421; Web Development
 [![My Skills](https://skillicons.dev/icons?i=linux,docker,jenkins,git,bash,pwsh,grafana)](https://skillicons.dev)
 </div>
 <div>
