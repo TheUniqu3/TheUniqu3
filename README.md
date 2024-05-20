@@ -1,4 +1,4 @@
-![Header](images/WannaBeBanner)
+![Header](images/WannaBeBanner.png)
 ## Hi there 👋
 
 ```go
