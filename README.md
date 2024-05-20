@@ -20,7 +20,7 @@
 ### ⚙️ Software Stack
 <div style="display:flex; gap: 0 50px; flex-wrap: wrap">
 <div>
-#### &#127918; Games
+### &#127918; Games
 [![My Skills](https://skillicons.dev/icons?i=cs,cpp&perline=3))](https://skillicons.dev) <space> [![My Skills](https://skillicons.dev/icons?i=unity,blender,visualstudio,git,ps,ae,pr&perline=3))](https://skillicons.dev)
 </div>
 <div>
