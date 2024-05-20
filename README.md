@@ -30,7 +30,9 @@
 <div>
 
 ### &#128421; Web Development
-[![My Skills](https://skillicons.dev/icons?i=linux,docker,jenkins,git,bash,pwsh,grafana)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css,py,php,html,css)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,postman,figma)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=postgresql,mysql,docker,git)](https://skillicons.dev) <br>
 </div>
 </div>
 <!-- ### 🏢 Working on -->
