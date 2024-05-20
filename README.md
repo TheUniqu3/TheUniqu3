@@ -20,10 +20,12 @@
 ## ⚙️ Software Stack
 <div style="display:flex; gap: 0 50px; flex-wrap: wrap">
 <div>
+  
 ### &#127918; Game Development
 [![My Skills](https://skillicons.dev/icons?i=cs,cpp)](https://skillicons.dev) <br>
 [![My Skills](https://skillicons.dev/icons?i=unity,blender,visualstudio)](https://skillicons.dev) <br>
 [![My Skills](https://skillicons.dev/icons?i=ps,firebase,obsidian,git)](https://skillicons.dev)
+
 </div>
 <div>
 
