@@ -22,7 +22,8 @@
 <div>
 
 ### &#127918; Game Development
-[![My Skills](https://skillicons.dev/icons?i=cs,cpp)](https://skillicons.dev) <space> [![My Skills](https://skillicons.dev/icons?i=cs,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp)](https://skillicons.dev)
 </div>
 
 <div>
