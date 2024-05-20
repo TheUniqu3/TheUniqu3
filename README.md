@@ -38,7 +38,7 @@
 
 | Left-aligned | Center-aligned | Right-aligned |
 | :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
+| [![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)  | git status     | git status    |
 | git diff     | git diff       | git diff      |
 
 <!-- ### 🏢 Working on -->
