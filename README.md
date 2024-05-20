@@ -29,7 +29,6 @@
 [![My Skills](https://skillicons.dev/icons?i=blender,unity,visualstudio,git,ps)](https://skillicons.dev)
 </div>
 <!-- <div>
-
 #### 📁 Databases
 [![My Skills](https://skillicons.dev/icons?i=mongodb,postgresql,mysql)](https://skillicons.dev)
 </div> -->
@@ -37,8 +36,8 @@
 
 | Left-aligned | Center-aligned | Right-aligned |
 | :---         |     :---:      |          ---: |
-| ### ⚙️ Software Stack <div style="display:flex; gap: 0 50px; flex-wrap: wrap"> <div> #### ⚒ Languages [![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev) </div>| git status     | git status    |
-| git diff     | git diff       | git diff      |
+| [![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)| git status     | git status    |
+| [![My Skills](https://skillicons.dev/icons?i=blender,unity,visualstudio,git,ps)    | git diff       | git diff      |
 
 <!-- ### 🏢 Working on -->
 <!-- <a href="https://github.com/Smbrer1/melon-back-end"> -->
