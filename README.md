@@ -25,8 +25,8 @@
 [![My Skills](https://skillicons.dev/icons?i=unity,blender,visualstudio)](https://skillicons.dev) <br>
 [![My Skills](https://skillicons.dev/icons?i=ps,firebase,obsidian,git)](https://skillicons.dev)
 </div>
-
 <div>
+
 ### &#128421; Web Development
 [![My Skills](https://skillicons.dev/icons?i=linux,docker,jenkins,git,bash,pwsh,grafana)](https://skillicons.dev)
 </div>
